@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Docker artifacts
+docker-image.tar
+*.log
+.env
+
